@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 - 擅长技能：
   - Python —— 入门简单精通难，真的还有很多有意思的值得继续学
   - 网络爬虫 —— BeautifulSoup、XPath、Scrapy
-  - HTML —— 学习爬虫时候顺带学了下，不算多精通
+  - HTML —— 学习爬虫时候顺带学了下
   - 数据分析 —— Pandas、matplotlib
-  - 机器学习 —— 不算多深入了解，只会简单的决策树、线性回归、逻辑回归、SVM、KNN、K-Means、PCA
+  - 机器学习 —— 不算多深入了解，只会决策树、线性回归、逻辑回归、SVM、KNN、K-Means、PCA
   - Linux —— 很喜欢Linux“一切皆文件”的逻辑，能熟练使用linux
-  - 数据库 —— MySQL、MongoDB、Redis都会一点，大致为CRUD，大学数据库课程是MySQL，所以对MySQL更熟一点。但对SQL语言不太感冒，不用GUI根本不想写，又臭又长。。。当初数据课考试时间却用在写SQL语言😫
+  - 数据库 —— MySQL、MongoDB、Redis都会一点，大致为CRUD，大学数据库课程是MySQL，所以对MySQL更熟一点。
   - office —— 只比一般人多会一点，以前写论文时候用的比较多
   - LaTex —— 也是写论文时候学的，结果LaTex写完后，老师要word版的😅话说回来，LaTex的排版真的很赞。
 
